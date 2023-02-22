@@ -24,7 +24,7 @@ export default function Skills() {
           {skills.map((skill) => (
             <div key={skill.title} className="p-2 sm:w-1/2 w-full">
               <div className="bg-gray-800 rounded flex p-4 h-full items-center">
-                <button onClick={() => handleButtonClick(skill.link)} className="flex items-center bg-gray-900 rounded p-2 w-full hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                <button onClick={() => handleButtonClick(skill.link)} className="flex items-center bg-green-900 skills rounded p-2 w-full hover:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
                   <BadgeCheckIcon className="text-green-400 w-6 h-6 flex-shrink-0 mr-4" />
                   <span className="title-font font-medium text-white">{skill.title}</span>
                 </button>
