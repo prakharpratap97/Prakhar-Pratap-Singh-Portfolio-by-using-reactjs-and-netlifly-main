@@ -25,8 +25,8 @@ export const projects = [
   },
   
   // {
-  //   title: "Epic Todo App",
-  //   subtitle: "React Hooks",
+  //   title: "Turtle Race Game",
+  //   subtitle: "Python, Turtle Library",
   //   description:
   //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
   //   image: "./project-4.gif",
@@ -81,5 +81,13 @@ export const projects = [
   {
     title: "Cloud",
     link: "https://www.udemy.com/certificate/UC-b0628d11-f138-4311-a763-f88ba7d23918/",
+  },
+  {
+    title: "Responsive Web Design",
+    link: "https://www.sololearn.com/certificates/CT-LI9ZHHSF",
+  },
+  {
+    title: "Git",
+    link: "https://www.linkedin.com/learning/certificates/189d7ff9ca03fc255806b60587c5db5c16292f3f48f56c901091b22cf79abaf2",
   },
 ];
