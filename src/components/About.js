@@ -6,14 +6,13 @@ export default function About() {
       <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center ">
         <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
-            Hi, I'm Prakhar Pratap Singh.
-            <br className="hidden lg:inline-block" />Welcome to my portfolio
+          Hi, I'm Prakhar Pratap Singh
+            
           </h1>
           <p className="mb-8 leading-relaxed">
-          This is my personal portfolio website, where you can find more about me, my skills and my past projects.
+          A Front-end Web Developer with 4 months of internship experience in React JS, JavaScript, HTML, and CSS
           </p>
-          <h2> I have done Btech in Computer Science Engineering and Diploma in Mechanical Engineering Branch.<br/>
-          I have four months experience as a Intern Front end web developer that includes React Js, JavaScript, HTML, CSS.</h2><br />
+          <h2>I am a Computer Science Engineering graduate and have worked on various projects showcasing my skills in these technologies. <br/> Check out my portfolio to view my past projects and learn more about my abilities. Please feel free to contact me for any inquiries.</h2><br />
         
           <div className="flex justify-center">
             <a

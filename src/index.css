@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+@media (min-width: 768px) and (max-width: 1024px) {
+  .responsive-image {
+    margin-bottom: 3.2rem;}}
+
   a.selected {
     position: relative;
     padding: 1em 1.8em;
