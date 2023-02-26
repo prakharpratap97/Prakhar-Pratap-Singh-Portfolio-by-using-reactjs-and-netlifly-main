@@ -43,7 +43,7 @@ export default function About() {
         </div>
         <div className="md:max-w-md md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center rounded responsive-image"
+            className="object-cover object-center rounded responsive-image card"
             alt="hero"
             src="./Prakhar Pratap.png"
           />

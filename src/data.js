@@ -28,9 +28,9 @@ export const projects = [
   //   title: "Turtle Race Game",
   //   subtitle: "Python, Turtle Library",
   //   description:
-  //     "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-  //   image: "./project-4.gif",
-  //   link: "https://reactbootcamp.com",
+  //     "Turtles race game is a Python project that utilizes the turtle graphics library to create a fun and interactive game. The objective of the game is for players to select a turtle and race it to the finish line. ",
+  //   image: "./Turtle race.png",
+  //   link: "https://github.com/prakharpratap97/Turtle-Race-Game",
   // },
 ];
 
