@@ -3,9 +3,9 @@ export const projects = [
     title: "Hawaiadda-Website",
     subtitle: "Reactjs, Javascript, Html, Css, Bootstrap, Emailjs",
     description:
-      "Hawaiadda is a dynamic and interactive website showcasing the capabilities of drones. The source code for this project is available on GitHub.",
+      "Hawaiadda is a dynamic and interactive website showcasing the capabilities of drones. It is currently hosted on Netlify.",
     image: "./Hawaiadda.gif",
-    link: "https://github.com/prakharpratap97/Hawaiadda-website-1.0",
+    link: "https://dronewebsite.netlify.app/",
   },
   {
     title: "Sticky Notes",
@@ -23,7 +23,7 @@ export const projects = [
     image: "./Calce.png",
     link: "https://unpuckered-companie.000webhostapp.com/",
   },
-  
+
   // {
   //   title: "Turtle Race Game",
   //   subtitle: "Python, Turtle Library",
@@ -34,8 +34,6 @@ export const projects = [
   // },
 ];
 
-
-
 // export const skills = [
 //   "Html",
 //   "Css",
@@ -45,11 +43,10 @@ export const projects = [
 //   "Python",
 //   "MySql",
 //   "Cloud",
-  
+
 // ];
 
-
- export const skills = [
+export const skills = [
   {
     title: "Html",
     link: "https://www.coursera.org/account/accomplishments/certificate/ZE84FPH3GT2J",
