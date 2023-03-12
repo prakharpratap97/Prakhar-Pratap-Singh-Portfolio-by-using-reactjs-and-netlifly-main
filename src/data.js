@@ -8,6 +8,14 @@ export const projects = [
     link: "https://dronewebsite.netlify.app/",
   },
   {
+    title: "Typing Test Game",
+    subtitle: "Python, Turtle Library",
+    description:
+      "The typing test game is a project that lets users test their typing speed and accuracy by typing out a random passage of text. It is a fun way to improve typing skills. The source code for this project is available on GitHub.",
+    image: "./typing test game.gif",
+    link: "https://github.com/prakharpratap97/typing-test",
+  },
+  {
     title: "Sticky Notes",
     subtitle: "Html, Css, Javascript, React, React-dragabble",
     description:
@@ -15,6 +23,7 @@ export const projects = [
     image: "./stickynotes.gif",
     link: "https://github.com/prakharpratap97/stickynotes-using-reactjs-html-and-css",
   },
+
   {
     title: "Calce - A Calculator",
     subtitle: "Html, Css, Javascript",
@@ -23,15 +32,6 @@ export const projects = [
     image: "./Calce.png",
     link: "https://unpuckered-companie.000webhostapp.com/",
   },
-
-  // {
-  //   title: "Turtle Race Game",
-  //   subtitle: "Python, Turtle Library",
-  //   description:
-  //     "Turtles race game is a Python project that utilizes the turtle graphics library to create a fun and interactive game. The objective of the game is for players to select a turtle and race it to the finish line. ",
-  //   image: "./Turtle race.png",
-  //   link: "https://github.com/prakharpratap97/Turtle-Race-Game",
-  // },
 ];
 
 // export const skills = [
