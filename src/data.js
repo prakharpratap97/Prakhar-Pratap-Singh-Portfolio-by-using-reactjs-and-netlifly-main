@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Hawaiadda-Website",
+    title: "Drone-Website",
     subtitle: "Reactjs, Javascript, Html, Css, Bootstrap, Emailjs",
     description:
       "Hawaiadda is a dynamic and interactive website showcasing the capabilities of drones. It is currently hosted on Netlify.",
@@ -9,9 +9,9 @@ export const projects = [
   },
   {
     title: "Typing Test Game",
-    subtitle: "Python, Turtle Library",
+    subtitle: "Reactjs, Random quote api, Javascript, Html, Css",
     description:
-      "The typing test game is a project that lets users test their typing speed and accuracy by typing out a random passage of text. It is a fun way to improve typing skills. The source code for this project is available on GitHub.",
+      "The typing test game is a project that lets users test their typing speed and accuracy by typing out a random passage of text. The source code for this project is available on GitHub.",
     image: "./typing test game.gif",
     link: "https://github.com/prakharpratap97/typing-test",
   },
