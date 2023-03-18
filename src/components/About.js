@@ -34,7 +34,7 @@ export default function About() {
               Projects
             </a>
             <a
-              href="https://drive.google.com/file/d/1cyrfrOVh1rntv7ieD1uDL4RiFh98yLLr/view?usp=sharing"
+              href="https://drive.google.com/file/d/1hK1n1hW3VpLtRWkH1BwBhaC0d26DM3ea/view?usp=share_link"
               className="ml-4  selected inline-flex flex justify-center text-gray-400 bg-gray-800 border-0 py-2 px-5 focus:outline-none  hover:text-white rounded text-lg"
             >
               <FaDownload className="mr-2 mt-1 h-5 w-5 &nbsp" /> View Resume
